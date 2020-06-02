@@ -12,6 +12,6 @@ class Backer
   end
   
   def add_backer(backer)
-    
+    @backer << backer
   end
 end
